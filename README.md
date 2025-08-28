@@ -39,4 +39,5 @@ The analysis reveals that the supply chain generated a total revenue of $578K fr
 
 **https://github.com/Kabir27-A/powerbi-supplychain-project/blob/main/overview_dashboard.png.png**
 **https://github.com/Kabir27-A/powerbi-supplychain-project/blob/main/product_insight_dashboard.png.png**
+**https://github.com/Kabir27-A/powerbi-supplychain-project/blob/main/supplier_insight_dashboard.png.png**
 
