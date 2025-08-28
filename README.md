@@ -38,6 +38,10 @@ To explore the dashboard, download the .pbix file from this repository and open 
 The analysis reveals that the supply chain generated a total revenue of $578K from more than 46,000 products sold. Skincare products emerged as the top-performing category with revenues of $0.24M, while Carrier B contributed the most to shipping-related revenue at $0.25M. Supplier 1 provided the highest stock availability of over 1,100 units and also delivered the strongest profit margin at 22.72%. On the cost side, road transportation accounted for the highest share at 30.32%, while defect rates varied across other transportation modes.
 
 **https://github.com/Kabir27-A/powerbi-supplychain-project/blob/main/overview_dashboard.png.png**
+
+
 **https://github.com/Kabir27-A/powerbi-supplychain-project/blob/main/product_insight_dashboard.png.png**
+
+
 **https://github.com/Kabir27-A/powerbi-supplychain-project/blob/main/supplier_insight_dashboard.png.png**
 
